@@ -1,6 +1,6 @@
 ### Olá ✌🏻
 
-<p> Me chamo Rodrigo Marques Campos, sou desenvolvedor Web Full Stack formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Norte de Minas Gerais. Ao longo da minha formação e primeiros trabalhos como analista de sistemas adiquiri conhecimento e experiência em HTML5, CSS3, Bootstrap3+, JavaScript, PHP, MySQL e Yii Framework 2.
+<p> Me chamo Rodrigo Marques Campos, sou desenvolvedor Web Full Stack formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Norte de Minas Gerais. Ao longo da minha formação e primeiros trabalhos como analista de sistemas adquiri conhecimento e experiência em HTML5, CSS3, Bootstrap3+, JavaScript, PHP, MySQL e Yii Framework 2.
 
 Atualmente estou estudando o ecossistema JavaScript, me apaixonando cada dia mais pela stack Node, React e React Native pela sua evolução, comunidade ativa e potencial crescente.
 
